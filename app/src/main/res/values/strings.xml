@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iBestie</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">Welcome to iBestie</string>
+    <string name="onboarding_welcome_subtitle">Your emotional companion, always here for you</string>
+    <string name="onboarding_voice_title">Voice First</string>
+    <string name="onboarding_voice_subtitle">Talk naturally, I\'ll listen and understand</string>
+    <string name="onboarding_privacy_title">Your Privacy Matters</string>
+    <string name="onboarding_privacy_subtitle">All conversations stay on your device</string>
+    <string name="onboarding_personalization_title">Tell Me About Yourself</string>
+    <string name="onboarding_btn_next">Next</string>
+    <string name="onboarding_btn_start">Start Chatting</string>
+    
+    <!-- Chat -->
+    <string name="chat_hint">Tap to speak…</string>
+    <string name="chat_listening">Listening…</string>
+    <string name="chat_thinking">Thinking…</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_delete_data">Delete My Data</string>
+    <string name="settings_delete_confirm">Are you sure? This cannot be undone.</string>
+    
+    <!-- Common -->
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_confirm">Confirm</string>
+</resources>
+
