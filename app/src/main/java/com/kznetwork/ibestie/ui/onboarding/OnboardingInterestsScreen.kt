@@ -13,6 +13,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.kznetwork.ibestie.viewmodel.OnboardingViewModel
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun OnboardingInterestsScreen(
     viewModel: OnboardingViewModel,
